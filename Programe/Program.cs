@@ -10,7 +10,6 @@ PrintArray(matrix);
 
 
 
-
 string[] ReplacementArray(string[] array1)
 {
     int count=0;
